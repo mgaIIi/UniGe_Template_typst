@@ -70,7 +70,7 @@ text( size: 17pt)[March 2025])
 
 #align(center,
 text( size: 18pt, weight: "bold")[Abstract])
-#align(center, lorem(200))
+#align(center, par(justify: true)[#lorem(200)])
 
 #pagebreak()
 
