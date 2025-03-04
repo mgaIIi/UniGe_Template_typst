@@ -59,7 +59,20 @@ text( size: 17pt)[Author])
   align(center, text( size : 17pt)[Examiner: Examiner Name]),
 )
 
+#v(15%)
 
-
+#align(center,
+text( size: 17pt)[March 2025])
 
 #pagebreak()
+
+#v(15%)
+
+#align(center,
+text( size: 18pt, weight: "bold")[Abstract])
+#align(center, lorem(200))
+
+#pagebreak()
+
+#set heading(numbering: "1.")
+#outline()
