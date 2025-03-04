@@ -1,3 +1,0 @@
-= Introduzione
-
-ciaooo a tuttiiiii
