@@ -46,5 +46,20 @@ text( size: 14pt ,weight: "bold")[Software Security and Engineering Curriculum])
 #align(center,
 text( size: 18pt ,weight: "bold")[Thesis Title])
 
+#v(5%)
+
+#align(center,
+text( size: 17pt)[Author])
+
+#v(5%)
+
+#grid(
+  columns: (1fr, 1fr),
+  align(center, text( size : 17pt)[Advisor : Advisor Name]),
+  align(center, text( size : 17pt)[Examiner: Examiner Name]),
+)
+
+
+
 
 #pagebreak()
